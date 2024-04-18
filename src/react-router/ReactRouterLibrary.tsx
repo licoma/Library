@@ -87,3 +87,4 @@ export function ReactRouterPage2() {
 
     return <h1>페이지 2: {time}</h1>
 }
+
